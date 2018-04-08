@@ -1,4 +1,4 @@
-# quora_duplicate_questions_problem #
+# Quora Duplicate Questions Problem #
 
 ### To use the code. ###
 - Download the train.csv.zip and test.csv.zip from [Quora dataset](https://www.kaggle.com/c/quora-question-pairs/data)
