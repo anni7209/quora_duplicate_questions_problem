@@ -7,6 +7,8 @@ Download the train.csv.zip and test.csv.zip from [Quora dataset](https://www.kag
 and extract them into "input" folder
 
 ### directory structure: ###
+'''
 quora_notebook.ipynb
 input/train.csv
 input/test.csv
+'''
