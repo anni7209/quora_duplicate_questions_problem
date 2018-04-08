@@ -1,1 +1,10 @@
 # quora_duplicate_questions_problem #
+
+To use the code.
+Download the train.csv.zip and test.csv.zip from https://www.kaggle.com/c/quora-question-pairs/data
+and extract them into "input" folder
+
+directory structure:
+quora_notebook.ipynb
+input/train.csv
+input/test.csv
